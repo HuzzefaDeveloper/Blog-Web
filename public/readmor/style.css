@@ -1,0 +1,25 @@
+main {
+    margin:0px 40px 40px;
+}
+header{
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.heding {
+    font-family: Anton;
+}
+.p {
+    text-align: center;
+}
+.form {
+    display: flex;
+}
+.btn {
+    margin: 5px;
+}
+.add-form {
+    width: 33%;
+    margin: auto;
+}
